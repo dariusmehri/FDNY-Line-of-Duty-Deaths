@@ -2,7 +2,7 @@
 
 Analyzing trends over time:
 
-https://public.tableau.com/app/profile/darius.mehri/viz/FDNYLineofDutyDeaths/FDNYLineofDutyDeaths?publish=yes
+https://public.tableau.com/views/FDNYLineofDutyDeaths/FDNYLineofDutyDeaths?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Data from NYC Open Data:
 
